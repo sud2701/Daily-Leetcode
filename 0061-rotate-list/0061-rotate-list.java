@@ -15,8 +15,11 @@ class Solution {
         }
         int n = 0;
         ListNode curr = head;
-        while(curr != null){
-            curr = curr.next;
+        while(curr != null && curr.next != null){
+            curr = curr.next.next;
+            n += 2;
+        }
+        if(curr != null){
             n += 1;
         }
         k = k % n;
