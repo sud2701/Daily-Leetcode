@@ -3,9 +3,6 @@ class Solution {
         int n = edges.length + 1;
         int[] count = new int[n + 1];
         int i = 0;
-        for(i = 0; i <= n; i++){
-            count[i] = 0;
-        }
         for(i = 0; i < n - 1; i++){
             count[edges[i][0]]++;
             count[edges[i][1]]++;
