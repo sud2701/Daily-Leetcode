@@ -1,5 +1,8 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
+        if(n == 1){
+            return 1;
+        }
         HashMap<Integer,Integer> map = new HashMap<Integer, Integer> ();
         for(int i = 1; i <= n; i++){
             map.put(i, 0);
