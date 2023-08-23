@@ -23,7 +23,7 @@ class Solution {
         queue.add(root);
         while(queue.size() != 0){
             TreeNode temp = queue.remove();
-            temp.val = calculateTilt(temp);
+            temp.val = Math.abs(sumOfNodes(temp.left) - sumOfNodes(temp.right));
             count += temp.val;
             if(temp.left != null){
                 queue.add(temp.left);
@@ -39,14 +39,5 @@ class Solution {
             return 0;
         }
         return sumOfNodes(root.left) + root.val + sumOfNodes(root.right);
-    }
-    public int calculateTilt(TreeNode root){
-        if(root == null){
-            return 0;
-        }
-        if(root.left == null && root.right == null){
-            return 0;
-        }
-        return Math.abs(sumOfNodes(root.left) - sumOfNodes(root.right));
     }
 }
