@@ -15,7 +15,7 @@
  */
 class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-     ArrayList<Integer> list1 = new ArrayList<Integer>();   
+     ArrayList<Integer> list1 = new ArrayList<Integer>();
      ArrayList<Integer> list2 = new ArrayList<Integer>();
      getLeafNodes(root1, list1);
      getLeafNodes(root2, list2);
