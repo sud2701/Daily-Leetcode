@@ -7,7 +7,6 @@ class Solution {
         }
         char start = needle.charAt(0);
         int i = 0;
-        int j = 0;
         for(i = 0; i < h; i++){
             if(haystack.charAt(i) == start){
                 if(i + n <= h && haystack.substring(i, i + n).equals(needle)){
