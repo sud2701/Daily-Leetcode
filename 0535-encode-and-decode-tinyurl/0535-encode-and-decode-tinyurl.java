@@ -22,6 +22,7 @@ public class Codec {
     // Encodes a URL to a shortened URL.
     public String encode(String longUrl) {
         String hashval = hexCode(Codec.count);
+        Codec.count += 1;
         urlMap.put(hashval, longUrl);
         return hashval;
     }
