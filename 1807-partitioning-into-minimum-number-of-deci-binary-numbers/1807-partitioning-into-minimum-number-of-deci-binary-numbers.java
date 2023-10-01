@@ -2,11 +2,14 @@ class Solution {
     public int minPartitions(String n) {
      int len = n.length();
      int max = 0;
-     char ch;
+     int ch;
      for(int i = 0; i < len; i++){
-         ch = n.charAt(i);
-         if(Character.getNumericValue(ch) > max){
-             max = Character.getNumericValue(ch);
+         ch = Character.getNumericValue(n.charAt(i));
+         if(ch == 9){
+             return 9;
+         }
+         if(ch > max){
+             max = ch;
          }
      }
      return max;   
