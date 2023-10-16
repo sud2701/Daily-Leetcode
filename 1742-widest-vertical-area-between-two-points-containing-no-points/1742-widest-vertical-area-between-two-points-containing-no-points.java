@@ -8,7 +8,9 @@ class Solution {
         Arrays.sort(x);
         int max_width = 0;
         for(int i = 1; i < n; i++){
-            max_width = Math.max(x[i] - x[i - 1], max_width);
+            if(x[i] - x[i - 1] > max_width){
+                max_width = x[i] - x[i - 1];
+            }
         }
         return max_width;
     }
