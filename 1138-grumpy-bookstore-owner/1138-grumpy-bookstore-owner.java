@@ -4,18 +4,16 @@ class Solution {
         int n = grumpy.length;
         int result = 0;
         int temp_diff = 0;
-        for(int i = 0; i < n - minutes + 1; i++) {
-            if(i == 0) {
-                for(int j = 0; j < minutes; j++) {
-                    if(grumpy[j] == 0){
-                        result += customers[j];
-                    }
-                    else {
-                        temp_diff += customers[j];
-                    }
-                }
+        for(int i = 0; i < minutes; i++){
+            if(grumpy[i] == 0){
+                result += customers[i];
             }
             else {
+                temp_diff += customers[i];
+            }
+        }
+        max_diff = temp_diff;
+        for(int i = 1; i < n - minutes + 1; i++) {
                 if(grumpy[i - 1] == 1){
                     temp_diff -= customers[i - 1];
                 }
@@ -25,10 +23,8 @@ class Solution {
                 else {
                     result += customers[i + minutes - 1];
                 }
-            }
             max_diff = Math.max(max_diff, temp_diff);
         }
-
         return result + max_diff;
     }
 }
