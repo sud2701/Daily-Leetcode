@@ -39,9 +39,7 @@ class Solution {
                 min_dist = Math.min(min_dist, Math.abs(x.index - y.index));
             }
             result[0] = min_dist;
-            int start = 0;
-            int end = len - 1;
-            result[1] = points.get(end).index - points.get(start).index;
+            result[1] = points.get(len - 1).index - points.get(0).index;
         }
         return result;
     }
