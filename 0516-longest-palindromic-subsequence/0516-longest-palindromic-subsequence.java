@@ -6,14 +6,16 @@ class Solution {
             dp[i][i] = 1;
         }
         int curr = 1;
+        int j = 0;
         while(curr < n){
         for(int i = 0; i < n - 1; i++) {
-            if(i + curr < n) {
-                if(s.charAt(i) == s.charAt(i + curr)){
-                    dp[i][i + curr] = 2 + dp[i + 1][i + curr - 1];
+            j = i + curr;
+            if(j < n) {
+                if(s.charAt(i) == s.charAt(j)){
+                    dp[i][j] = 2 + dp[i + 1][j - 1];
                 }
                 else {
-                    dp[i][i + curr] = Math.max(dp[i + 1][i + curr], dp[i][i + curr - 1]);
+                    dp[i][j] = Math.max(dp[i + 1][j], dp[i][j - 1]);
                 }
             }
         }
