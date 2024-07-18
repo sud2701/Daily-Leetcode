@@ -4,11 +4,10 @@ class Solution {
         if(n <= 1) {
             return n;
         }
-        int max_length = 1;
-        int curr_length = 1;
+        int max_length = 0;
+        int curr_length = 0;
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
-        map.put(s.charAt(0), 0);
-        int i = 1;
+        int i = 0;
         char ch;
         while(i < n) {
             ch = s.charAt(i);
