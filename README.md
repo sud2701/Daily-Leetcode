@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sud2701/Daily-Leetcode/tree/master/0050-powx-n) |
 | [0279-perfect-squares](https://github.com/sud2701/Daily-Leetcode/tree/master/0279-perfect-squares) |
 | [1642-water-bottles](https://github.com/sud2701/Daily-Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sud2701/Daily-Leetcode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
