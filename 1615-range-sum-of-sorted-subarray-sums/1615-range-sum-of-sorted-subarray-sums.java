@@ -7,13 +7,13 @@ class Solution {
         int temp = 0;
         int curr_sub_num = 1;
         int result = 0;
+        int curr_elements = n;
         for(int i = 0; i < n; i++) {
             total += nums[i];
             queue.add(total);
         }
-        while(subtract_index < n && !queue.isEmpty()) {
-            int elements = queue.size();
-            for(int i = 0; i < elements; i++) {
+        while(subtract_index < n && curr_elements > 0) {
+            for(int i = 0; i < curr_elements; i++) {
                 temp = queue.remove();
                 if(temp - nums[subtract_index] > 0){
                     queue.add(temp - nums[subtract_index]);
@@ -21,6 +21,7 @@ class Solution {
                 minHeap.add(temp);
             }
             subtract_index++;
+            curr_elements--;
         }
         while(curr_sub_num <= right) {
             temp = minHeap.poll();
