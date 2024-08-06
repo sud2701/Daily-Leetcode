@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/sud2701/Daily-Leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/sud2701/Daily-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
