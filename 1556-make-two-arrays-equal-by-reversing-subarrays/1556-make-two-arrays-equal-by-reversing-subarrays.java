@@ -1,8 +1,9 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+        int n = target.length;
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>(n);
         int temp = 0;
-        for(int i: target) {
+        for(int i : target) {
             if(map.get(i) == null) {
                 map.put(i, 1);
             }
