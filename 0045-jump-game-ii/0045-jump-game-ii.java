@@ -5,18 +5,16 @@ class Solution {
         dp[n - 1] = 0;
         for(int i = n - 2; i >= 0; i--){
             if(nums[i] == 0){
-                dp[i] = Integer.MAX_VALUE;
+                dp[i] = n;
             }
             else {
                 if(i + nums[i] >= n - 1){
                     dp[i] = 1;
                 }
                 else {
-                    dp[i] = n + 1;
+                    dp[i] = n;
                     for(int j = i + 1; j <= i + nums[i] && j < n; j++){
-                        if(dp[j] != Integer.MAX_VALUE){
-                            dp[i] = Math.min(dp[i], 1 + dp[j]);
-                        }
+                        dp[i] = Math.min(dp[i], 1 + dp[j]);
                     }
                 }
             }
