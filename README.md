@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sud2701/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sud2701/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/sud2701/Daily-Leetcode/tree/master/0377-combination-sum-iv) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sud2701/Daily-Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/sud2701/Daily-Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/sud2701/Daily-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
