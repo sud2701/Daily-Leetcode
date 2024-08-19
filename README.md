@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sud2701/Daily-Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/sud2701/Daily-Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sud2701/Daily-Leetcode/tree/master/0326-power-of-three) |
+| [0650-2-keys-keyboard](https://github.com/sud2701/Daily-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/sud2701/Daily-Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sud2701/Daily-Leetcode/tree/master/2645-pass-the-pillow) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sud2701/Daily-Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/sud2701/Daily-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/sud2701/Daily-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1105-uncrossed-lines](https://github.com/sud2701/Daily-Leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/sud2701/Daily-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
