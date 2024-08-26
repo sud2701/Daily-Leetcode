@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sud2701/Daily-Leetcode/tree/master/0682-baseball-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sud2701/Daily-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sud2701/Daily-Leetcode/tree/master/1720-crawler-log-folder) |
 ## String
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sud2701/Daily-Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sud2701/Daily-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sud2701/Daily-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sud2701/Daily-Leetcode/tree/master/0476-number-complement) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
