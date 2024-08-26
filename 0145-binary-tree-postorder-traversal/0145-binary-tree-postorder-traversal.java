@@ -14,9 +14,8 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> result;
+    ArrayList<Integer> result = new ArrayList<Integer>();
     public List<Integer> postorderTraversal(TreeNode root) {
-        result = new ArrayList<Integer>();
         postOrderHelper(root);
         return result;
     }
@@ -25,10 +24,8 @@ class Solution {
         if(root == null){
             return;
         }
-        else {
-            postOrderHelper(root.left);
-            postOrderHelper(root.right);
-            result.add(root.val);
-        }
+        postOrderHelper(root.left);
+        postOrderHelper(root.right);
+        result.add(root.val);
     }
 }
