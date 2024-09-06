@@ -10,14 +10,18 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> set = new HashSet<Integer>();
-        for(int i : nums){
-            set.add(i);
+        int maximum = 0;
+        for(int i: nums){
+            maximum = Math.max(maximum, i);
+        }
+        boolean[] beDeleted = new boolean[maximum + 1];
+        for(int i: nums){
+            beDeleted[i] = true;
         }
         ListNode curr = head;
         ListNode prev = null;
         while(curr != null){
-            if(!set.add(curr.val)){
+            if(curr.val <= maximum && beDeleted[curr.val]){
                 if(curr == head){
                     head = curr.next;
                 }
@@ -27,7 +31,6 @@ class Solution {
             }
             else {
                 prev = curr;
-                set.remove(curr.val);
             }
             curr = curr.next;
         }
