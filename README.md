@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0682-baseball-game](https://github.com/sud2701/Daily-Leetcode/tree/master/0682-baseball-game) |
 | [1105-uncrossed-lines](https://github.com/sud2701/Daily-Leetcode/tree/master/1105-uncrossed-lines) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sud2701/Daily-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/sud2701/Daily-Leetcode/tree/master/1720-crawler-log-folder) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sud2701/Daily-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sud2701/Daily-Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sud2701/Daily-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sud2701/Daily-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sud2701/Daily-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/sud2701/Daily-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
