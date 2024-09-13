@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/sud2701/Daily-Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sud2701/Daily-Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sud2701/Daily-Leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sud2701/Daily-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/sud2701/Daily-Leetcode/tree/master/2645-pass-the-pillow) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/sud2701/Daily-Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sud2701/Daily-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sud2701/Daily-Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/sud2701/Daily-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
 | ------- |
