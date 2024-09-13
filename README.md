@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/sud2701/Daily-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sud2701/Daily-Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sud2701/Daily-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sud2701/Daily-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
