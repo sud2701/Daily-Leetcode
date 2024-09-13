@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/sud2701/Daily-Leetcode/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/sud2701/Daily-Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sud2701/Daily-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sud2701/Daily-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sud2701/Daily-Leetcode/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sud2701/Daily-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sud2701/Daily-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sud2701/Daily-Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sud2701/Daily-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sud2701/Daily-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
