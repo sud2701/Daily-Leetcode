@@ -13,7 +13,7 @@ class Solution {
         int min_diff = Math.min(diff1, Math.min(1440 - times[0] + times[n - 1], times[n - 1] - times[n - 2]));
         index = 1;
         while(index < n - 1){
-            curr_diff = Math.min(times[index] - times[index - 1], times[index + 1] - times[index]);
+            curr_diff = times[index + 1] - times[index];
             min_diff = Math.min(curr_diff, min_diff);
             index++;
         }
