@@ -9,9 +9,8 @@ class Solution {
             index++;
         }
         Arrays.sort(times);
-        int diff1 = Math.min(times[1] - times[0], 1440 - times[n - 1] + times[0]);
-        int min_diff = Math.min(diff1, Math.min(1440 - times[0] + times[n - 1], times[n - 1] - times[n - 2]));
-        index = 1;
+        int min_diff = 1440 - times[n - 1] + times[0];
+        index = 0;
         while(index < n - 1){
             curr_diff = times[index + 1] - times[index];
             min_diff = Math.min(curr_diff, min_diff);
