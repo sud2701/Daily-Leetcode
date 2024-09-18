@@ -17,13 +17,6 @@ class Solution {
                 result.add(word);
             }
         }
-        String[] final_res = new String[result.size()];
-        Iterator<String> ib = result.iterator();
-        int i = 0;
-        while(ib.hasNext()){
-            final_res[i] = ib.next();
-            i++;
-        }
-        return final_res;
+        return result.toArray(new String[0]);
     }
 }
