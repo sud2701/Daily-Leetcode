@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/sud2701/Daily-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Backtracking
 |  |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/sud2701/Daily-Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sud2701/Daily-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sud2701/Daily-Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
