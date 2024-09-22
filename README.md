@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sud2701/Daily-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sud2701/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sud2701/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sud2701/Daily-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sud2701/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sud2701/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sud2701/Daily-Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
