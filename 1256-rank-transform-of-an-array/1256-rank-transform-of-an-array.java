@@ -1,26 +1,29 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>((a, b) -> a - b);
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
-        for(int i : arr){
-            minHeap.add(i);
-        }
         int n = arr.length;
-        int[] result = new int[n];
+        if(n == 0){
+            return arr;
+        }
+        int[] copy = new int[n];
+        for(int i = 0; i < n; i++){
+            copy[i] = arr[i];
+        }
+        Arrays.sort(copy);
         int rank = 1;
-        int temp = 0;
-        int count = 0;
-        while(count < n){
-            temp = minHeap.poll();
-            count++;
-            if(map.get(temp) == null){
-                map.put(temp, rank);
-                rank++;
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+        map.put(copy[0], 1);
+        for(int i = 1; i < n; i++){
+            if(copy[i] == copy[i - 1]){
+                continue;
+            }
+            else {
+                rank += 1;
+                map.put(copy[i], rank);
             }
         }
         for(int i = 0; i < n; i++){
-            result[i] = map.get(arr[i]);
+            arr[i] = map.get(arr[i]);
         }
-        return result;
+        return arr;
     }
 }
