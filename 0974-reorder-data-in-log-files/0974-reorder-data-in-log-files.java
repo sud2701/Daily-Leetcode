@@ -1,37 +1,39 @@
 class Solution {
     public String[] reorderLogFiles(String[] logs) {
-        ArrayList<String> digit_logs = new ArrayList<String>();
-        ArrayList<String> letter_logs = new ArrayList<String>();
-        int temp = 0;
-        int i = 0;
-        for(String s: logs){
-            temp = s.length();
-            for(i = 0; i < temp; i++){
-                if(s.charAt(i) != ' ')
-                    continue;
-                else {
-                    if(s.charAt(i + 1) >= '0' && s.charAt(i + 1) <= '9')
-                        digit_logs.add(s);
-                    else
-                        letter_logs.add(s);
-                    break;
-                }
-            }
-        }
-        Collections.sort(letter_logs, new Compare());
-        String[] ans = new String[logs.length];
-        i = 0;
-        Iterator ib = letter_logs.iterator();
-        while(ib.hasNext()){
-            ans[i] = (String)ib.next();
-            i++;
-        }
-        ib = digit_logs.iterator();
-        while(ib.hasNext()){
-            ans[i] = (String)ib.next();
-            i++;
-        }
-        return ans;
+        // ArrayList<String> digit_logs = new ArrayList<String>();
+        // ArrayList<String> letter_logs = new ArrayList<String>();
+        // int temp = 0;
+        // int i = 0;
+        // for(String s: logs){
+        //     temp = s.length();
+        //     for(i = 0; i < temp; i++){
+        //         if(s.charAt(i) != ' ')
+        //             continue;
+        //         else {
+        //             if(s.charAt(i + 1) >= '0' && s.charAt(i + 1) <= '9')
+        //                 digit_logs.add(s);
+        //             else
+        //                 letter_logs.add(s);
+        //             break;
+        //         }
+        //     }
+        // }
+        // Collections.sort(letter_logs, new Compare());
+        // String[] ans = new String[logs.length];
+        // i = 0;
+        // Iterator ib = letter_logs.iterator();
+        // while(ib.hasNext()){
+        //     ans[i] = (String)ib.next();
+        //     i++;
+        // }
+        // ib = digit_logs.iterator();
+        // while(ib.hasNext()){
+        //     ans[i] = (String)ib.next();
+        //     i++;
+        // }
+        // return ans;
+        Arrays.sort(logs, new Compare());
+        return logs;
     }
 }
 
@@ -39,6 +41,17 @@ class Compare implements Comparator<String> {
     public int compare(String a, String b) {
         int space_1 = a.indexOf(' ');
         int space_2 = b.indexOf(' ');
+        if(a.charAt(space_1 + 1) <= '9'){
+            if(b.charAt(space_2 + 1) <= '9'){
+                return 0;
+            }
+            else return 1;
+        }
+        else {
+            if(b.charAt(space_2 + 1) <= '9'){
+                return -1;
+            }
+        }
         String id1 = a.substring(0, space_1);
         String id2 = b.substring(0, space_2);
         String content_1 = a.substring(space_1);
