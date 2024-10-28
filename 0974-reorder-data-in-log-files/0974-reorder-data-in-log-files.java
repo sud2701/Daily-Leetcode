@@ -38,9 +38,15 @@ class Solution {
 }
 
 class Compare implements Comparator<String> {
+    int space_1;
+    int space_2;
+    String id1;
+    String id2;
+    String content_1;
+    String content_2;
     public int compare(String a, String b) {
-        int space_1 = a.indexOf(' ');
-        int space_2 = b.indexOf(' ');
+        space_1 = a.indexOf(' ');
+        space_2 = b.indexOf(' ');
         if(a.charAt(space_1 + 1) <= '9'){
             if(b.charAt(space_2 + 1) <= '9'){
                 return 0;
@@ -52,10 +58,10 @@ class Compare implements Comparator<String> {
                 return -1;
             }
         }
-        String id1 = a.substring(0, space_1);
-        String id2 = b.substring(0, space_2);
-        String content_1 = a.substring(space_1);
-        String content_2 = b.substring(space_2);
+        id1 = a.substring(0, space_1);
+        id2 = b.substring(0, space_2);
+        content_1 = a.substring(space_1);
+        content_2 = b.substring(space_2);
         if(content_1.equals(content_2)){
             return id1.compareTo(id2);
         }
