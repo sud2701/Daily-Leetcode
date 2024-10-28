@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/sud2701/Daily-Leetcode/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/sud2701/Daily-Leetcode/tree/master/0729-my-calendar-i) |
+| [0974-reorder-data-in-log-files](https://github.com/sud2701/Daily-Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/sud2701/Daily-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1098-largest-unique-number](https://github.com/sud2701/Daily-Leetcode/tree/master/1098-largest-unique-number) |
 | [1105-uncrossed-lines](https://github.com/sud2701/Daily-Leetcode/tree/master/1105-uncrossed-lines) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sud2701/Daily-Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sud2701/Daily-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0974-reorder-data-in-log-files](https://github.com/sud2701/Daily-Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1250-longest-common-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sud2701/Daily-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sud2701/Daily-Leetcode/tree/master/1720-crawler-log-folder) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
+| [0974-reorder-data-in-log-files](https://github.com/sud2701/Daily-Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1098-largest-unique-number](https://github.com/sud2701/Daily-Leetcode/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
