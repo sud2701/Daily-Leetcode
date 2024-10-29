@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sud2701/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/sud2701/Daily-Leetcode/tree/master/0670-maximum-swap) |
+| [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sud2701/Daily-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sud2701/Daily-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sud2701/Daily-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sud2701/Daily-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sud2701/Daily-Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sud2701/Daily-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sud2701/Daily-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sud2701/Daily-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sud2701/Daily-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
