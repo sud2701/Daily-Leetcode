@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sud2701/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sud2701/Daily-Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sud2701/Daily-Leetcode/tree/master/0377-combination-sum-iv) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/sud2701/Daily-Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sud2701/Daily-Leetcode/tree/master/0322-coin-change) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sud2701/Daily-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/sud2701/Daily-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sud2701/Daily-Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Backtracking
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/sud2701/Daily-Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/sud2701/Daily-Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sud2701/Daily-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
