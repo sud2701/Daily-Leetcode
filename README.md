@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sud2701/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sud2701/Daily-Leetcode/tree/master/0322-coin-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sud2701/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sud2701/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sud2701/Daily-Leetcode/tree/master/0567-permutation-in-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sud2701/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sud2701/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sud2701/Daily-Leetcode/tree/master/0049-group-anagrams) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sud2701/Daily-Leetcode/tree/master/0567-permutation-in-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0729-my-calendar-i](https://github.com/sud2701/Daily-Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sud2701/Daily-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
