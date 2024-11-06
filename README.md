@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/sud2701/Daily-Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sud2701/Daily-Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sud2701/Daily-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sud2701/Daily-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sud2701/Daily-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/sud2701/Daily-Leetcode/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/sud2701/Daily-Leetcode/tree/master/0729-my-calendar-i) |
+| [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 | [0974-reorder-data-in-log-files](https://github.com/sud2701/Daily-Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/sud2701/Daily-Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1098-largest-unique-number](https://github.com/sud2701/Daily-Leetcode/tree/master/1098-largest-unique-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sud2701/Daily-Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sud2701/Daily-Leetcode/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sud2701/Daily-Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1098-largest-unique-number](https://github.com/sud2701/Daily-Leetcode/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/sud2701/Daily-Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sud2701/Daily-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
