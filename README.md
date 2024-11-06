@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/sud2701/Daily-Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sud2701/Daily-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
+| [2555-design-sql](https://github.com/sud2701/Daily-Leetcode/tree/master/2555-design-sql) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sud2701/Daily-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sud2701/Daily-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sud2701/Daily-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/sud2701/Daily-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
+| [2555-design-sql](https://github.com/sud2701/Daily-Leetcode/tree/master/2555-design-sql) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/sud2701/Daily-Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
+| [2555-design-sql](https://github.com/sud2701/Daily-Leetcode/tree/master/2555-design-sql) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sud2701/Daily-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sud2701/Daily-Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/sud2701/Daily-Leetcode/tree/master/0816-design-hashset) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sud2701/Daily-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2555-design-sql](https://github.com/sud2701/Daily-Leetcode/tree/master/2555-design-sql) |
 ## Binary Search Tree
 |  |
 | ------- |
