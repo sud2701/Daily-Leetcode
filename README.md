@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sud2701/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sud2701/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sud2701/Daily-Leetcode/tree/master/0322-coin-change) |
+| [0346-moving-average-from-data-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sud2701/Daily-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sud2701/Daily-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sud2701/Daily-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0346-moving-average-from-data-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/sud2701/Daily-Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sud2701/Daily-Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/sud2701/Daily-Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0346-moving-average-from-data-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sud2701/Daily-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
