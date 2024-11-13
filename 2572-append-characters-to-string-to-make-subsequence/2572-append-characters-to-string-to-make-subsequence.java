@@ -8,15 +8,12 @@ class Solution {
         while(i < n) {
             if(s.charAt(i) == curr){
                 curr_index++;
-                if(curr_index >= m){
+                if(curr_index == m){
                     break;
                 }
                 curr = t.charAt(curr_index);
             }
             i++;
-        }
-        if(curr_index == m) {
-            return 0;
         }
         return m - curr_index;
     }
