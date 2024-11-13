@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sud2701/Daily-Leetcode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sud2701/Daily-Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sud2701/Daily-Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sud2701/Daily-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/sud2701/Daily-Leetcode/tree/master/0670-maximum-swap) |
 | [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sud2701/Daily-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-minimum-number-of-keypresses](https://github.com/sud2701/Daily-Leetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2502-sort-the-people](https://github.com/sud2701/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2555-design-sql](https://github.com/sud2701/Daily-Leetcode/tree/master/2555-design-sql) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sud2701/Daily-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/sud2701/Daily-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sud2701/Daily-Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
